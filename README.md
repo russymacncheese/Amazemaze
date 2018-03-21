@@ -1,0 +1,2 @@
+# Amazemaze
+A maze game!
